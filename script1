@@ -1,0 +1,50 @@
+push
+move
+250 250 0
+rotate
+y 50
+sphere
+0 0 0 100
+pop
+push
+move
+250 250 0
+rotate
+x 90
+rotate
+z 50
+torus
+0 0 0 15 220
+pop
+push
+move
+250 250 0
+rotate
+x 180
+rotate
+z 50
+torus
+0 0 0 15 220
+pop
+push
+move
+250 250 0
+rotate
+x 20
+rotate
+z 50
+torus
+0 0 0 15 220
+pop
+push
+move
+250 250 0
+rotate
+x 130
+rotate
+z 50
+torus
+0 0 0 15 220
+display
+save
+tangled.png
